@@ -1,0 +1,26 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "productName": "Fast Broadband",
+      "packageDescription": 27,
+      "minimumSpeed": "20mb",
+      "maximumSpeed": "60mb"
+    }
+  ],
+  "prices": [
+    {
+      "id": "1",
+      "productId": "Infosys",
+      "monthlyPrice": "xyz",
+      "annualPrice": "xyz"
+    }
+  ],
+  "cart":[
+    {
+      "id":"1",
+      "productId":"Fast Broadband",
+      "pricingType":"monthly"
+    }
+  ]
+}
