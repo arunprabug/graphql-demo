@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "firstName": "Arunprabu",
+      "age": 27,
+      "companyId": "1"
+    },
+    {
+      "id": "2",
+      "firstName": "Rajesh",
+      "age": 28,
+      "companyId": "2"
+    },
+    {
+      "id": "3",
+      "firstName": "Vidyasagar",
+      "age": 28,
+      "companyId": "1"
+    },
+    {
+      "firstName": "vs",
+      "age": 29,
+      "id": "YMdWrOd"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Infosys",
+      "description": "xyz"
+    },
+    {
+      "id": "2",
+      "name": "Google",
+      "description": "xyz"
+    }
+  ]
+}
